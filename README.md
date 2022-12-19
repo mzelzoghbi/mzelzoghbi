@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zak</h1>
+<h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Zak</h1>
 <h3 align="center">A passionate Software Engineer from Egypt 🇪🇬</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzelzoghbi&label=Profile%20views&color=0e75b6&style=flat" alt="mzelzoghbi" /> </p>
