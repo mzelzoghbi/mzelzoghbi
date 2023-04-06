@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT: Your Personal AI-Language Assistant](https://medium.com/@eng.zak/chatgpt-your-personal-ai-language-assistant-8906469eb94e?source=rss-7b12c04d99f4------2)
 - [How to crack any Android Interview](https://medium.com/@eng.zak/how-to-crack-any-android-interview-3232569bf76f?source=rss-7b12c04d99f4------2)
 - [Workaround to solve SecurityException caused by JobIntentService](https://medium.com/@eng.zak/workaround-to-solve-securityexception-caused-by-jobintentservice-1f4b0e688a26?source=rss-7b12c04d99f4------2)
 <!-- BLOG-POST-LIST:END -->
