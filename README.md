@@ -15,6 +15,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Android OutOfMemory Error Explained!](https://medium.com/@eng.zak/android-outofmemory-error-explained-6a0906d1f850?source=rss-7b12c04d99f4------2)
 - [Android Studio Tip #1— Scratch Files](https://medium.com/@eng.zak/android-studio-tip-1-scratch-files-6f511f9b043d?source=rss-7b12c04d99f4------2)
 - [ChatGPT: Your Personal AI-Language Assistant](https://medium.com/@eng.zak/chatgpt-your-personal-ai-language-assistant-8906469eb94e?source=rss-7b12c04d99f4------2)
 - [How to crack any Android Interview](https://medium.com/@eng.zak/how-to-crack-any-android-interview-3232569bf76f?source=rss-7b12c04d99f4------2)
