@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Navigating the Future: A Look at Emerging Tech Trends in 2024](https://medium.com/@eng.zak/navigating-the-future-a-look-at-emerging-tech-trends-in-2024-19efb5a9ee84?source=rss-7b12c04d99f4------2)
 - [Android OutOfMemory Error Explained!](https://medium.com/@eng.zak/android-outofmemory-error-explained-6a0906d1f850?source=rss-7b12c04d99f4------2)
 - [Android Studio Tip #1— Scratch Files](https://medium.com/@eng.zak/android-studio-tip-1-scratch-files-6f511f9b043d?source=rss-7b12c04d99f4------2)
 - [ChatGPT: Your Personal AI-Language Assistant](https://medium.com/@eng.zak/chatgpt-your-personal-ai-language-assistant-8906469eb94e?source=rss-7b12c04d99f4------2)
 - [How to crack any Android Interview](https://medium.com/@eng.zak/how-to-crack-any-android-interview-3232569bf76f?source=rss-7b12c04d99f4------2)
-- [Workaround to solve SecurityException caused by JobIntentService](https://medium.com/@eng.zak/workaround-to-solve-securityexception-caused-by-jobintentservice-1f4b0e688a26?source=rss-7b12c04d99f4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
