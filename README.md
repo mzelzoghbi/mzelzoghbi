@@ -23,11 +23,6 @@
 
 ---
 
-## 🧩 Tech I use a lot
-`Kotlin` · `Swift` · `Flutter` · `Go` · `Firebase` · `SQLite / CoreData` · `CI/CD` · `Observability`
-
----
-
 ## 🤝 Open to
 - Sharing lessons learned
 - Reviewing SDK architecture
